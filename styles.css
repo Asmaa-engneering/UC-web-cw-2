@@ -1,0 +1,44 @@
+
+
+.part{
+    color: darkred;
+    text-align: center;
+    font-size: 200px ;
+    
+    border-style: dotted;
+}
+h1{
+    color: darkred;
+    text-align: center;
+    font-size: 200px ;
+    background-color: cadetblue;
+    
+}
+h2{
+    
+    font-size: 100px;
+    background-color: lightseagreen;
+   
+    
+}
+h3{
+    
+    font-size: 64px;
+    background-color: mediumspringgreen;
+    
+}
+p{
+    
+    font-size: 70px;
+    background-color: mediumpurple;
+   
+}
+
+.card{
+    width: 500px;
+    background-color: violet;
+    text-align: center;
+}
+#dish-name{
+    color: white;
+}
